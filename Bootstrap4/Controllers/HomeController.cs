@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Bootstrap4Learning.Controllers
+namespace Bootstrap4.Controllers
 {
     public class HomeController : Controller
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap4Learning", "Bootstrap4Learning\Bootstrap4Learning.csproj", "{48D09134-13D9-4343-8A2F-A63D49BCE6F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap4", "Bootstrap4\Bootstrap4.csproj", "{48D09134-13D9-4343-8A2F-A63D49BCE6F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
