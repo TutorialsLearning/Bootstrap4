@@ -4,10 +4,14 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - Bootstrap 4 Application</title>
+    <link href="~/Libraries/bootstrap-4.0.0/css/bootstrap.min.css" rel="stylesheet" />
     <link href="~/Content/site.min.css" rel="stylesheet" />
 </head>
 <body>
-<div>@RenderBody()</div>
+@RenderBody()
+<script src="~/Libraries/jquery-3.3.1.min.js"></script>
+<script src="~/Libraries/popper.min.js"></script>
+<script src="~/Libraries/bootstrap-4.0.0/js/bootstrap.min.js"></script>
 <script src="~/Scripts/site.js"></script>
 </body>
 </html>

@@ -96,6 +96,10 @@
       <DependentUpon>site.css</DependentUpon>
     </Content>
     <Content Include="Global.asax" />
+    <Content Include="Libraries\bootstrap-4.0.0\css\bootstrap.min.css" />
+    <Content Include="Libraries\bootstrap-4.0.0\js\bootstrap.min.js" />
+    <Content Include="Libraries\jquery-3.3.1.min.js" />
+    <Content Include="Libraries\popper.min.js" />
     <Content Include="Scripts\site.js" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -140,7 +144,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>58638</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
